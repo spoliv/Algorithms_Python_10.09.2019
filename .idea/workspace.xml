@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cec142a0-736c-4faa-a1ca-9778f92bf434" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DZ/Lesson_6/task_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cec142a0-736c-4faa-a1ca-9778f92bf434" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,11 +42,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DZ/Lesson_6/task_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1167">
-              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="523">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -57,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DZ/Lesson_1/task_1.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DZ/Lesson_8/task_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="30" lean-forward="true" selection-end-line="1" selection-end-column="30" />
+            <state relative-caret-position="320">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -69,7 +66,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DZ/Lesson_1/task_3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
+            <state relative-caret-position="280">
               <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
@@ -79,7 +76,7 @@
         <entry file="file://$PROJECT_DIR$/DZ/Lesson_1/task_6.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="20">
-              <caret line="1" column="30" lean-forward="true" selection-end-line="1" selection-end-column="30" />
+              <caret line="1" column="30" selection-end-line="1" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -87,7 +84,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DZ/Lesson_3/test_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
+            <state relative-caret-position="340">
               <caret line="17" column="14" lean-forward="true" selection-end-line="17" selection-end-column="14" />
             </state>
           </provider>
@@ -114,7 +111,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DZ/Lesson_3/task_5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
+            <state relative-caret-position="480">
               <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
@@ -123,7 +120,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DZ/Lesson_3/task_6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
+            <state relative-caret-position="560">
               <caret line="28" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
@@ -175,6 +172,7 @@
         <option value="$PROJECT_DIR$/DZ/Lesson_5/task_1.py" />
         <option value="$PROJECT_DIR$/DZ/Lesson_5/task_2.py" />
         <option value="$PROJECT_DIR$/DZ/Lesson_6/task_1.py" />
+        <option value="$PROJECT_DIR$/DZ/Lesson_8/task_1.py" />
       </list>
     </option>
   </component>
@@ -205,25 +203,7 @@
               <item name="Algorithms_Python_10.09.2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms_Python_10.09.2019" type="462c0819:PsiDirectoryNode" />
               <item name="DZ" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms_Python_10.09.2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms_Python_10.09.2019" type="462c0819:PsiDirectoryNode" />
-              <item name="DZ" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms_Python_10.09.2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms_Python_10.09.2019" type="462c0819:PsiDirectoryNode" />
-              <item name="DZ" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson_3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms_Python_10.09.2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms_Python_10.09.2019" type="462c0819:PsiDirectoryNode" />
-              <item name="DZ" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson_6" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_8" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -414,11 +394,12 @@
       <workItem from="1569566128490" duration="3436000" />
       <workItem from="1569853678861" duration="12333000" />
       <workItem from="1570177945298" duration="13318000" />
+      <workItem from="1570739875649" duration="638000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98177000" />
+    <option name="totallyTimeSpent" value="98815000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -431,14 +412,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34341908" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34871408" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.49099836" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49099836" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -547,16 +527,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DZ/Lesson_6/task_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DZ/Lesson_1/task_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
-          <caret line="1" column="30" lean-forward="true" selection-end-line="1" selection-end-column="30" />
+          <caret line="1" column="30" selection-end-line="1" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DZ/Lesson_1/task_3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
+        <state relative-caret-position="280">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
@@ -564,14 +554,14 @@
     <entry file="file://$PROJECT_DIR$/DZ/Lesson_1/task_6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
-          <caret line="1" column="30" lean-forward="true" selection-end-line="1" selection-end-column="30" />
+          <caret line="1" column="30" selection-end-line="1" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DZ/Lesson_2/task_1.py">
+    <entry file="file://$PROJECT_DIR$/DZ/Lesson_3/test_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="340">
+          <caret line="17" column="14" lean-forward="true" selection-end-line="17" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -591,32 +581,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DZ/Lesson_3/task_5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
+        <state relative-caret-position="480">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DZ/Lesson_3/task_6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
+        <state relative-caret-position="560">
           <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DZ/Lesson_3/test_2.py">
+    <entry file="file://$PROJECT_DIR$/DZ/Lesson_2/task_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="17" column="14" lean-forward="true" selection-end-line="17" selection-end-column="14" />
+        <state relative-caret-position="640">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DZ/Lesson_6/task_1.py">
+    <entry file="file://$PROJECT_DIR$/DZ/Lesson_8/task_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1167">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="320">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
